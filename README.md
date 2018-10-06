@@ -24,7 +24,7 @@ ionic cordova build android --prod
 ## Requirement
 
 - Node.js 8.12.0
-- Ionic CLI 3.4.0
+- Ionic CLI 4.2.0
 
 
 ## Installation
