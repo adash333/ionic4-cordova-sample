@@ -1,4 +1,5 @@
-"# ionic4-cordova-sample" 
+# ionic4-cordova-sample
+
 Ionic4で新規アプリを作成したものを、cordovaを用いてAndroidアプリ（apkファイル）を作成するために作成したrepositoryです。
 
 以下のコードにより作成しました。
